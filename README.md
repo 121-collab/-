@@ -1,7 +1,7 @@
 # 🔬 Bioinformatics Reproduction Notes
 
 > 个人科研复现笔记库 —— 专注于 Illumina 二代测序与单细胞转录组（scRNA-seq）数据的复现与分析  
-> Author: 银河 | Role: 生信初学者 / scRNA-seq 技术学习者  
+> Author: wu | Role: 生信初学者 / scRNA-seq 技术学习者  
 > 环境：Linux 服务器 + Cell Ranger + R + Seurat
 
 ---
