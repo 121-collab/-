@@ -65,7 +65,6 @@ Rscript analysis_seurat.R
 | 项目 | 期刊 | 数据集 | 状态 |
 |------|------|--------|------|
 | Liao2020_kidney | Nature Medicine 2020 | GSE131685 | ✅ 已完成 |
-| GSE123516_intestine | Nature 2019 | GSE123516 | 🔄 计划中 |
 | Zheng2017_PBMC | Cell 2017 | GSE99254 | 🔄 计划中 |
 
 ---
